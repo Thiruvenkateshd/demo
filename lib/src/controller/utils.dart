@@ -1,0 +1,3 @@
+
+dynamic screenWidth;
+dynamic screenHeight;
