@@ -71,6 +71,7 @@ class _MovieListPageState extends State<MovieListPage> {
 
                 return Padding(
                   padding: const EdgeInsets.all(8.0),
+                  
                   child: Column(
                     children: [
                       Row(
